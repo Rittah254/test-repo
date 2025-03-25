@@ -2,6 +2,6 @@ resource "aws_instance" "name" {
 
 }
   
-output "name" {
+output "name1" {
   
 }
